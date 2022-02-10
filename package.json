@@ -1,0 +1,11 @@
+{
+  "name": "lession_advanced",
+  "version": "1.0.0",
+  "description": "Bat dau vao học js nâng cao ES6+ coders-x TokyO\r https://www.youtube.com/watch?v=Pb62kgDlbYo&list=PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
