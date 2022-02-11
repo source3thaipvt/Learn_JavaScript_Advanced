@@ -7,7 +7,7 @@ function greeting(name,age ){
 
 greeting.call(null, 'Tom', 10) //Hi, Tom I am 10!
 greeting.call() // Hi, undefined I am undefined!
-greeting.call('Hai', 10)
+greeting.call('Hai', 10) //Hi, 10 I am undefined!
 
 function greetings(){
     console.log(`Hi, ${this.name} I am ${this.age}!`) 
